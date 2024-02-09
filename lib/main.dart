@@ -1,6 +1,5 @@
-import 'package:data/smoked.dart';
-import 'package:first_try_for_a_good_app/home.dart';
-import 'package:first_try_for_a_good_app/palette.dart';
+import 'home.dart';
+import 'palette.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
