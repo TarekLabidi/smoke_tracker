@@ -1,8 +1,8 @@
-import 'package:first_try_for_a_good_app/dummydata.dart';
-import 'package:first_try_for_a_good_app/pages/brands_page.dart';
-import 'package:first_try_for_a_good_app/pages/history_page.dart';
-import 'package:first_try_for_a_good_app/pages/today_page.dart';
-import 'package:first_try_for_a_good_app/palette.dart';
+import 'dummydata.dart';
+import 'pages/brands_page.dart';
+import 'pages/history_page.dart';
+import 'pages/today_page.dart';
+import 'palette.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

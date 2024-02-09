@@ -1,6 +1,6 @@
-import 'package:first_try_for_a_good_app/components/brand_details.dart';
-import 'package:first_try_for_a_good_app/components/brand_view.dart';
-import 'package:first_try_for_a_good_app/dummydata.dart';
+import '../components/brand_details.dart';
+import '../components/brand_view.dart';
+import '../dummydata.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 

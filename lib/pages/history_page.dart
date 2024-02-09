@@ -1,5 +1,5 @@
-import 'package:first_try_for_a_good_app/components/goal_card.dart';
-import 'package:first_try_for_a_good_app/palette.dart';
+import '../components/goal_card.dart';
+import '../palette.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:intl/intl.dart';

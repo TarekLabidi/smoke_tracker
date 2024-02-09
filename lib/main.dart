@@ -1,4 +1,4 @@
-import 'package:first_try_for_a_good_app/data/smoked.dart';
+import 'package:data/smoked.dart';
 import 'package:first_try_for_a_good_app/home.dart';
 import 'package:first_try_for_a_good_app/palette.dart';
 import 'package:flutter/material.dart';
