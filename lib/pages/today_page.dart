@@ -1,8 +1,8 @@
-import 'package:first_try_for_a_good_app/components/brand_card.dart';
-import 'package:first_try_for_a_good_app/components/money_icon.dart';
-import 'package:first_try_for_a_good_app/components/somke_icon.dart';
-import 'package:first_try_for_a_good_app/dummydata.dart';
-import 'package:first_try_for_a_good_app/palette.dart';
+import '../components/brand_card.dart';
+import '../components/money_icon.dart';
+import '../components/somke_icon.dart';
+import '../dummydata.dart';
+import '../palette.dart';
 
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';

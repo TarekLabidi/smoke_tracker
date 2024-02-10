@@ -1,4 +1,4 @@
-import 'package:first_try_for_a_good_app/palette.dart';
+import '../palette.dart';
 import 'package:flutter/material.dart';
 
 class SomkeIcon extends StatelessWidget {

@@ -7,7 +7,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Hive.initFlutter();
-  Hive.registerAdapter(SmokedAdapter());
+
   await Hive.openBox('smokedbox');
   runApp(const MyApp());
 }
