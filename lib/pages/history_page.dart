@@ -48,7 +48,7 @@ class _HistoryPageState extends State<HistoryPage> {
     List<SmokedData> smokedDataList = [];
 
     if (index == 1) {
-      for (int i = 0; i < history.length && i < 29; i++) {
+      for (int i = 0; i < history.length && i < 7; i++) {
         smokedDataList.insert(
             0,
             SmokedData(
@@ -66,7 +66,7 @@ class _HistoryPageState extends State<HistoryPage> {
             ));
       }
     } else if (index == 3) {
-      for (int i = 0; i < history.length && i < 29; i++) {
+      for (int i = 0; i < history.length && i < 364; i++) {
         smokedDataList.insert(
             0,
             SmokedData(
@@ -75,7 +75,7 @@ class _HistoryPageState extends State<HistoryPage> {
             ));
       }
     } else {
-      for (int i = 0; i < history.length && i < 29; i++) {
+      for (int i = 0; i < history.length; i++) {
         smokedDataList.insert(
             0,
             SmokedData(
