@@ -1,16 +1,1 @@
-# first_try_for_a_good_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The purpose of this project is to learn how to store data using HIVE(turned out to be pretty easy and fast),autoreset all the variables each day and storing them and try to get my hands on all the usecases while creating some interesting features.
