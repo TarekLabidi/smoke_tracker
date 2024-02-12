@@ -1,1 +1,1 @@
-The purpose of this project is to learn how to store data using HIVE(turned out to be pretty easy and fast),autoreset all the variables each day and storing them and try to get my hands on all the usecases while creating some interesting features.
+The purpose of this project is to learn how to store data using HIVE(turned out to be pretty easy and fast),autoreset all the variables each day and storing them and try to get my hands on all the usecases while creating some interesting features and trying some new things in the UI.
